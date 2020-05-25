@@ -1,4 +1,4 @@
-module github.com/libp2p/go-reuseport
+module github.com/bootgo/go-reuseport
 
 require (
 	github.com/pkg/errors v0.8.1
